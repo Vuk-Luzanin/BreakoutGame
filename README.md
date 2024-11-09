@@ -22,6 +22,16 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
    ```bash
    git clone PROJECT_URL
 
+2. Navigate to the project directory:
+   ```bash
+   cd PROJECT
+
+3. Compile and run the game using the following command:
+   ```bash
+   javac IgraLoptica.java
+   java IgraLoptica
+
+   
 ## Credits 
 
 This game is a personal project made with Java. The concept is inspired by the classic arcade game Breakout, originally developed by Atari.
