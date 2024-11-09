@@ -31,6 +31,9 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
    javac IgraLoptica.java
    java IgraLoptica
 
+## 🖼️ Screenshot
+
+![App Screenshot](images/screenshotForGITHUB.png)
    
 ## Credits 
 
