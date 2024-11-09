@@ -21,3 +21,7 @@ Breakout is a classic arcade game where the player controls a paddle to bounce a
 1. Clone this repository:
    ```bash
    git clone PROJECT_URL
+
+## Credits 
+
+This game is a personal project made with Java. The concept is inspired by the classic arcade game Breakout, originally developed by Atari.
